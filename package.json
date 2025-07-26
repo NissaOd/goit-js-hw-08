@@ -1,0 +1,19 @@
+{
+  "name": "homework6",
+  "version": "1.0.0",
+  "description": "Homework-46",
+  "scripts": {
+    "push": "git add .; git commit -m 'update'; git push;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NissaOd/goit-js-hw-06-2025/"
+  },
+  "keywords": [],
+  "author": "Nissa",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/NissaOd/goit-js-hw-06-2025/blob/main/README.md"
+}
